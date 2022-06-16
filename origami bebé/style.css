@@ -1,0 +1,10 @@
+body{background-color: khaki;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#titulo{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;}
+#encasode{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#siya{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.profile{ border-radius: 50%;}
+#creditos{text-align: right;}
+#sugerencia{text-align: left;}
